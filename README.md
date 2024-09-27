@@ -1,4 +1,4 @@
-# "Title goes here"
+# Mastering JavaScript String Manipulation
 ![JavaScript code snippet showing examples of string manipulation, including concatenation, slicing, and changing case.](./assets/images/example.png)
 ##
 
@@ -358,7 +358,7 @@ In this assignment, you practiced working with several common JavaScript string 
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-4-the-box-model/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-string-methods/tree/solution) (link not shown).
 
 
 ---
